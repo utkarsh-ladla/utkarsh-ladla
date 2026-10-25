@@ -1,23 +1,25 @@
 # Hi, I'm Utkarsh Ladla 👋
 
-## About Me
-I am a **Full-Stack Developer** with expertise in **React.js, Node.js, FastAPI, PHP**, and working with **SQL & NoSQL databases** like **MySQL** and **MongoDB**. Currently working at **Eulogik**, I build scalable web applications and create clean, efficient backend systems.  
+> **Philosophy:** Some repos are too stable to risk—not pushing, not branching, just preserving what works. ❤️
 
-**Tech Stack:**  
-- **Frontend:** React, HTML5, CSS3, JavaScript, TypeScript  
-- **Backend:** Node.js, Express, FastAPI, PHP  
-- **Database:** MongoDB, MySQL  
-- **DevOps & Tools:** Docker, Git, AWS, Digital Ocean  
+## About Me
+I am a **Full-Stack Developer** with expertise in **React.js, Node.js, FastAPI, PHP**, and working with **SQL & NoSQL databases** like **MySQL** and **MongoDB**. Currently working at **CMK Healthcare**, I build scalable web applications and create clean, efficient backend systems.
+
+**Tech Stack:**
+- **Frontend:** React, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Node.js, Express, FastAPI, PHP
+- **Database:** MongoDB, MySQL
+- **DevOps & Tools:** Docker, Git, AWS, DigitalOcean
 
 ---
 
 ## Currently Learning
-- Microservices architecture  
-- Containerization & deployment pipelines  
-- Advanced backend optimizations  
+- Microservices architecture
+- Containerization & deployment pipelines
+- Advanced backend optimizations
 
 ---
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/utkarsh-ladla)  
+- [LinkedIn](https://www.linkedin.com/in/utkarsh-ladla)
 - **Email:** utkarshladla@example.com
