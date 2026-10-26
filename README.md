@@ -1,7 +1,5 @@
 # Hi, I'm Utkarsh Ladla 👋
 
-> **Philosophy:** Some repos are too stable to risk—not pushing, not branching, just preserving what works. ❤️
-
 ## About Me
 I am a **Full-Stack Developer** with expertise in **React.js, Node.js, FastAPI, PHP**, and working with **SQL & NoSQL databases** like **MySQL** and **MongoDB**. Currently working at **CMK Healthcare**, I build scalable web applications and create clean, efficient backend systems.
 
